@@ -1,0 +1,4 @@
+Sitemap: https://perhaps-value.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: perhaps-value.github.io
