@@ -6,11 +6,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://perhaps-value.github.io/categories/meetup.xml</loc>
+  <lastmod>2020-06-09T14:51:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://perhaps-value.github.io/categories/promo.xml</loc>
+  <lastmod>2020-06-09T14:51:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://perhaps-value.github.io/categories/workshop.xml</loc>
+  <lastmod>2020-06-09T14:51:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://perhaps-value.github.io/rss.xml</loc>
-  <lastmod>2020-06-09T09:52:00Z</lastmod>
+  <lastmod>2020-06-09T14:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://perhaps-value.github.io/sitemap.xml</loc>
-  <lastmod>2020-06-09T09:52:00Z</lastmod>
+  <lastmod>2020-06-09T14:51:00Z</lastmod>
  </sitemap>
 </sitemapindex>
